@@ -1,0 +1,1 @@
+﻿create schema CONACULTA authorization postgres;
